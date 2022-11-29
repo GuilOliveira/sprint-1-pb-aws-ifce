@@ -7,7 +7,7 @@ Avaliação da primeira sprint do programa de bolsas Compass.uol para formação
 - Reproduzir e implementar o código de https://acervolima.com/docker-docker-container-para-node-js/ ;
 - Executar o código;
 - Testar o código;
-- Documentar o código e o criar um readme explicando todos os conceitos utilizados.
+- Documentar o código e o criar um readme explicando como foi desenvolvido e relacionando com os conceitos estudados.
 
 ## Entrega
 - Aceitar o convite do repositório da sprint-1-pb-aws-ifce;
